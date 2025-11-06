@@ -144,7 +144,7 @@ dmypy.json
 *.sav
 
 # Output files
-outputs/
+
 results/
 plots/
 figures/
@@ -202,3 +202,4 @@ checkpoints/
 
 # Streamlit
 .streamlit/
+
