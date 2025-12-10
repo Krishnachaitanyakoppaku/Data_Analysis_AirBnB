@@ -274,19 +274,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📞 Support
 
-If you have any questions or issues:
-- 🐛 [Open an issue](https://github.com/letsdoit-sricharan/Data_Analysis_AirBnB/issues)
-- 💬 [Start a discussion](https://github.com/letsdoit-sricharan/Data_Analysis_AirBnB/discussions)
-- 📧 Email: krish23306@gmail.com
-
----
-
-<div align="center">
-
-**⭐ Star this repo if you find it helpful!**
-
-Made with ❤️ and Python
 
 </div>
+
